@@ -1,0 +1,1 @@
+[07-Mar-2024 10:06:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home10/nooruae/bazard-backend.danatportal.com/vendor/composer/platform_check.php on line 28

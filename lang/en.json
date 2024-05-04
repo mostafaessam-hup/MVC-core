@@ -1,0 +1,14 @@
+{
+    "Registration Successful.": "Registration Successful.",
+    "Account Created": "Account Created",
+    "Login credentials are incorrect": "Login credentials are incorrect",
+    "Logout Successfully.": "Logout Successfully.",
+    "User credentials are incorrect": "User credentials are incorrect",
+    "Email Not Found !": "Email Not Found !",
+    "Incorrect Password !": "Incorrect Password !",
+    "Invalid Otp": "Invalid Otp",
+    "OTP Send Successfully.": "OTP Send Successfully.",
+    "Expired Otp.": "Expired Otp.",
+    "OTP is not verified.": "OTP is not verified.",
+    "OTP is not registered.": "OTP is not registered."
+}

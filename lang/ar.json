@@ -1,0 +1,14 @@
+{
+    "Registration Successful.": "تم التسجيل بنجاح.",
+    "Account Created": "تم إنشاء الحساب",
+    "Login credentials are incorrect": "بيانات الدخول غير صحيحة",
+    "Logout Successfully.": "تم تسجيل الخروج بنجاح.",
+    "User credentials are incorrect": "بيانات المستخدم غير صحيحة",
+    "Email Not Found !": "البريد الإلكتروني غير موجود!",
+    "Incorrect Password !": "كلمة المرور غير صحيحة!",
+    "Invalid Otp": "كود التحقق غير صالح",
+    "OTP Send Successfully.": "تم إرسال كود التحقق بنجاح.",
+    "Expired Otp.": "انتهت صلاحية كود التحقق.",
+    "OTP is not verified.": "لم يتم التحقق من كود التحقق.",
+    "OTP is not registered.": "كود التحقق غير مسجل."
+}
